@@ -1,5 +1,5 @@
 # Git Merge Conflicts
-
+  
 ## Learning Goals
 
 - Demonstrate steps for merge conflict resolution
